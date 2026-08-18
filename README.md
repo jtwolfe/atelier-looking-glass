@@ -4,13 +4,14 @@ On-device photo or short-clip try-on. “What would I look like in this?”
 
 It **skins a Studio bake**. It does not simulate cloth. If you need a new drape, go back to [Studio](https://github.com/jtwolfe/atelier-studio).
 
-This is **product 3** of the Atelier trio.
+This is **product 3** of Atelier.
 
 | Product | Repo | Role |
 |---|---|---|
 | Table | [atelier-table](https://github.com/jtwolfe/atelier-table) | Paper ↔ cloth |
 | Studio | [atelier-studio](https://github.com/jtwolfe/atelier-studio) | Drape and bake |
 | **Looking Glass** | this repo | Wear a bake on a photo / 3 s clip |
+| Draft | [atelier-draft](https://github.com/jtwolfe/atelier-draft) | Live CAD + libraries + Commons |
 
 ## Who it is for
 
